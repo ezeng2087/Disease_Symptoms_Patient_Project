@@ -53,7 +53,7 @@ Ensuring Data validation through expected values and ranges based on the column 
 
 # Dataset Description
 
-## Columns
+## Updated Columns
 
 1. **Disease:** Type of disease.
 2. **Fever:** Presence of fever (Yes/No).
