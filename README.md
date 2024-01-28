@@ -1,5 +1,10 @@
 # Disease_Symptoms_Patient_Project
 
+## Description
+
+This [dataset](https://www.kaggle.com/datasets/uom190346a/disease-symptoms-and-patient-profile-dataset) provides information related to air quality, including various indicators measured across different geographic areas and time periods within NYC.
+
+
 ## Objective
 Come up with a Disease Symptom Patient dashboard that does the following:
 
@@ -16,6 +21,21 @@ d) **Blood Pressure Levels**
 e) **Cholesterol Levels**
 
 f) **Symptom Presence (Fever, Cough, Fatigue, Difficulty Breathing)**
+
+### Columns
+| Column                | Description                                            |
+|-----------------------|--------------------------------------------------------|
+| `Disease`             | Type of disease.                                       |
+| `Fever`               | Presence of fever (Yes/No).                            |
+| `Cough`               | Presence of cough (Yes/No).                            |
+| `Fatigue`             | Presence of fatigue (Yes/No).                          |
+| `DifficultyBreathing` | Difficulty in breathing (Yes/No).                      |
+| `Age`                 | Age of the patient.                                    |
+| `Gender`              | Gender of the patient.                                 |
+| `BloodPressure`       | Blood pressure level.                                  |
+| `CholesterolLevel`    | Cholesterol level.                                     |
+| `OutcomeVariable`     | Original outcome variable indicating disease status (Positive/Negative). |
+
    
 # Excel
 Counting for any blank cells with COUNTBLANK function
