@@ -109,7 +109,7 @@ CREATE TABLE patients (
 
 ## Objective
 
-Come up with a Disease Symptom Patient dashboard that provides insights into the distribution of patients based on various factors.
+Come up with a Disease Symptom Patient dashboard that provides insights into the distribution of patients based on various factors listed above.
 
 ## Total % of Patients Stratified by
 
