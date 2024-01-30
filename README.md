@@ -2,7 +2,7 @@
 
 ## Description
 
-This [dataset](https://www.kaggle.com/datasets/uom190346a/disease-symptoms-and-patient-profile-dataset) provides information related to air quality, including various indicators measured across different geographic areas and time periods within NYC.
+This [dataset](https://www.kaggle.com/datasets/uom190346a/disease-symptoms-and-patient-profile-dataset) provides information related to patients and their disease symptoms, including essential information such as disease names, fever, and cough symptoms, fatigue, difficulty breathing, age, gender, blood pressure, cholesterol levels, and the outcome variable indicating the result of the diagnosis or assessment 
 
 
 ## Objective
